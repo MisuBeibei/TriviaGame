@@ -1,0 +1,32 @@
+.jumbotron {
+    text-align: center;
+    padding: 0.5em 0.6em;
+    opacity: .7;
+    color: yellow;
+    background-color: black;
+}
+
+.btn {
+    color: yellow;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+
+    font-size: 12pt;
+}
+
+body {
+    background: url("../images/background.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:black;
+    font-display: bold;
+    text-align: center;
+}
+.container {
+    display: none;
+    color:black;
+    font-display: bold;
+}
